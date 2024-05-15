@@ -1,4 +1,4 @@
-# Diffie Hellman Key-Exchange Algoeithm: 
+# <span style="color:blue">Diffie Hellman Key-Exchange Algoeithm: </span>
 **p is large prime number and the g is primitive root of prime p**
 
 
